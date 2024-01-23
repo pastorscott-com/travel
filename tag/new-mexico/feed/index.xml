@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New Mexico &#8211; Here and There</title>
+	<atom:link href="/tag/new-mexico/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Fri, 17 Oct 2014 14:41:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Shortstop: El Paso West RV Park &#8211; Anthony, NM</title>
+		<link>/2014/10/17/shortstop-el-paso-west-rv-park-anthony-nm/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2014 14:41:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[camping]]></category>
+		<category><![CDATA[New Mexico]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[shortstop]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/?p=1106</guid>
+
+					<description><![CDATA[This RV park, located near I10 and just a mile or so from the Texas state line, got good reviews and offered an Escapees discount so we decided to give it a try. It has several level pull through sites as well as back in&#8217;s located on the parameter of the property. The clientele is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This RV park, located near I10 and just a mile or so from the Texas state line, got good reviews and offered an Escapees discount so we decided to give it a try.  It has several level pull through sites as well as back in&#8217;s located on the parameter of the property.  The clientele is a mixture of long term residents who are working in the area and short stay travelers like us.  The pull through sites are &#8220;back to back&#8221; and long enough to allow tow vehicles to stay hooked up.  The restrooms are modern and clean and the folks running the place are friendly and welcoming.  We found the campground to be a bit noisy.  Working people started their day early and overnight campers were anxious to get on the road.  It just so happens that we were given the site right next to the dumpsters and we could smell them, not in our camper, but any time we were outside.  Nothing I&#8217;ve said is a real big deal but it did add up to a less than restful night for us.  We would return to this place, but I think I&#8217;d lobby for a site a bit farther from the dumpsters.</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRP97Fog1odlfyH_I6avqAsmoNqTJ2Etc3mInhfmKfKYy9_ph_HnHcu7_fwaiCog7uR5a4ttYN4O9ja/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Teen Activities &#8211; Here and There</title>
+	<atom:link href="/tag/teen-activities/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Sat, 29 Jun 2013 21:54:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Mary L. Cook Public Library</title>
+		<link>/2013/06/29/mary-l-cook-public-library/</link>
+		
+		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
+		<pubDate>Sat, 29 Jun 2013 21:54:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Library]]></category>
+		<category><![CDATA[Mary L. Cook]]></category>
+		<category><![CDATA[Ohio]]></category>
+		<category><![CDATA[Public Library]]></category>
+		<category><![CDATA[SRP]]></category>
+		<category><![CDATA[Teen Activities]]></category>
+		<guid isPermaLink="false">http://pastorscott.com/library/?p=125</guid>
+
+					<description><![CDATA[Name: Mary L. Cook Public Library Location: 381 Old Stage Road, Waynesville, OH 45068 Mary L. Cook Library  is a friendly, comfortable place to spend some time or find materials to take home and enjoy. We were greeted by staff as we entered and felt very comfortable looking around the building.]]></description>
+										<content:encoded><![CDATA[<p>Name: Mary L. Cook Public Library</p>
+<p>Location: 381 Old Stage Road, Waynesville, OH 45068</p>
+<p><a href="http://mlcook.lib.oh.us/">Mary L. Cook Library </a> is a friendly, comfortable place to spend some time or find materials to take home and enjoy. We were greeted by staff as we entered and felt very comfortable looking around the building.</p>
+<p><img decoding="async" src="http://lh3.ggpht.com/-tOxpmwwysGQ/Uc9UEHIrzPI/AAAAAAAAGZ4/2lQ_g7YVHsE/s144-c-o/IMG_0601.JPG"/></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

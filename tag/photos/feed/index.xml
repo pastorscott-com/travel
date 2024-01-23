@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>photos &#8211; Here and There</title>
+	<atom:link href="/tag/photos/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Wed, 05 Sep 2007 17:29:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Rocky Mountain National Park</title>
+		<link>/2007/09/05/rocky-mountain-national-park/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Wed, 05 Sep 2007 17:29:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[photos]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/rocky-mountain-national-park/</guid>
+
+					<description><![CDATA[We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike. [pe2-gallery album=&#8221;http://picasaweb.google.com/data/feed/base/user/101128941131953400860/albumid/5106117873576087617?alt=rss&#38;hl=en_US&#38;kind=photo&#8221; ]]]></description>
+										<content:encoded><![CDATA[<p>We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike.</p>
+<p>[pe2-gallery album=&#8221;http://picasaweb.google.com/data/feed/base/user/101128941131953400860/albumid/5106117873576087617?alt=rss&amp;hl=en_US&amp;kind=photo&#8221; ]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

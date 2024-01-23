@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>artists &#8211; Here and There</title>
+	<atom:link href="/tag/artists/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Wed, 25 Sep 2013 22:18:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Justin Potter Library</title>
+		<link>/2013/09/25/justin-potter-library/</link>
+		
+		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
+		<pubDate>Wed, 25 Sep 2013 22:18:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artists]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[genealogy]]></category>
+		<category><![CDATA[Library]]></category>
+		<category><![CDATA[Public Library]]></category>
+		<guid isPermaLink="false">http://pastorscott.com/library/?p=208</guid>
+
+					<description><![CDATA[Name: Justin Potter Library Location: 101 South 1st Street Smithville, TN 32166]]></description>
+										<content:encoded><![CDATA[<p>Name: Justin Potter Library<br />
+Location: 101 South 1st Street<br />
+Smithville, TN 32166</p>
+<p><img decoding="async" src="http://lh3.ggpht.com/-uxJC7MESH_A/UkNVoGxHelI/AAAAAAAAHdU/Py7uIRj4TQE/s144-c-o/2013-Potter%252520Library-Smithville%25252C%252520TN%252520-%2525207.jpg"/></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

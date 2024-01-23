@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tips &#8211; Here and There</title>
+	<atom:link href="/tag/tips/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Wed, 05 Feb 2020 19:29:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2015 &#8211; Tip: Other uses of Google Maps</title>
+		<link>/2015/11/27/tip-other-uses-of-google-maps/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2015 04:07:25 +0000</pubDate>
+				<category><![CDATA[Scott]]></category>
+		<category><![CDATA[camping]]></category>
+		<category><![CDATA[planning]]></category>
+		<category><![CDATA[state park]]></category>
+		<category><![CDATA[Texas]]></category>
+		<category><![CDATA[tips]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/?p=1962</guid>
+
+					<description><![CDATA[I use Google maps a lot for planning. I mostly use it for routing. Sometimes if I&#8217;m unsure of a section of highway (or want to check out the campground entrance) I check out the street view and virtually drive along a section of highway to see what it looks like. Here&#8217;s a nifty website [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I use Google maps a lot for planning. I mostly use it for routing. Sometimes if I&#8217;m unsure of a section of highway (or want to check out the campground entrance) I check out the street view and virtually drive along a section of highway to see what it looks like. <a href="http://www.brianfolts.com/driver/">Here&#8217;s a nifty website</a> that automates journeying the street view.</p>
+<p>If I&#8217;m in unfamiliar country and concerned about taking the 5th wheel over a highway I&#8217;ll go to Google Earth view and zoom in close enough to see what kind of vehicles are on that road. If I see a few 18 wheelers or campers I know I can drive it too.</p>
+<p><img decoding="async" src="http://lh3.googleusercontent.com/-ClWM84-2ufA/VlkiGCzXjrI/AAAAAAAAm7I/vmMGlzERISM/s144-o/camper%252520from%252520space2.jpg" /> Recently, just for fun I was looking at San Jacinto Monument (and Battleship Texas) where we volunteered last winter and will return to in less than a month. I was surprised to see that sometime during our stay there last winter the area was photographed by Google Earth and our camper was photographed from far above. Cool, huh!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

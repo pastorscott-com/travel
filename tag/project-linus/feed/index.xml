@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>project Linus &#8211; Here and There</title>
+	<atom:link href="/tag/project-linus/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Thu, 16 May 2013 17:58:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Whitesboro, TX Public Library</title>
+		<link>/2013/05/16/whitesboro-tx-public-library/</link>
+		
+		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
+		<pubDate>Thu, 16 May 2013 17:58:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Library]]></category>
+		<category><![CDATA[project Linus]]></category>
+		<category><![CDATA[SRP]]></category>
+		<guid isPermaLink="false">http://pastorscott.com/library/?p=90</guid>
+
+					<description><![CDATA[Location: Whitesboro, Texas 76273 Name: Whitesboro Public Library Whitesboro Public Library is a City Library. This friendly branch is in a lovely building on Main Street. It is well laid out with good signage. The staff is ready and registering for the the upcoming Summer Reading Program &#8220;Get Fired Up For Reading&#8221;. They Plan to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Location: Whitesboro, Texas 76273</p>
+<p>Name: Whitesboro Public Library</p>
+<p><img fetchpriority="high" decoding="async" class="alignleft" alt="" src="http://www.whitesborotexas.com/city/images/IMG_4929_crp.jpg" width="540" height="283" /><a href="http://whitesboropl.org/index.html">Whitesboro Public Library</a> is a City Library. This friendly branch is in a lovely building on Main Street. It is well laid out with good signage. The staff is ready and registering for the the upcoming Summer Reading Program &#8220;Get Fired Up For Reading&#8221;. They Plan to have 52 programs in 6 weeks including a Lock-In with a late pizza party supper and a walk to the nearby donut shop for breakfast. They have many incentives for reading including the two bicycles shown below. The library has a lot to offer the community. People can apply for Passports at the library including getting their picture taken. There is wireless internet available for those with their own devices or public access computers for those who need internet access including a visitors pass for people who do not have a library card. Two computers are dedicated to the children. There is a History/Genealogy corner for those wanting to do research and two study spaces if someone needs a quiet place to work. The study spaces can be reserved or are available if no is using them. There is also a Conference Room available to the public for meetings and receptions by reservation. Outside the library next to the parking lot is a lovely gazebo open to the public as a place to come sit, read and enjoy. The Library is also involved in <a href="http://pldallas.org/">Project Linus</a> to help provide security through handmade blankets. The quilt shown is one the children helped make in 2010.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
