@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>winegard carryout &#8211; Here and There</title>
+	<atom:link href="/travel/tag/winegard-carryout/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Wed, 05 Feb 2020 21:38:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Wineguard Carryout Review – First Look</title>
+		<link>/travel/2012/05/27/wineguard-carryout-review-part-2/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Mon, 28 May 2012 01:58:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[camping]]></category>
+		<category><![CDATA[dish]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[satellite]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[winegard carryout]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/wineguard-carryout-review-part-2/</guid>
+
+					<description><![CDATA[We’ve been out in the camper for a week now, three moves, and we’ve enjoyed having satellite TV every day.  The carryout works pretty good.  I think I’ll get better at deploying it as I use it more.  Basically, you set it out where you think it will be able to see the southern sky.  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/travel/wp-content/uploads/2012/05/2012-252520-252520Camping-252520Trip-003_thumb.jpg"><img decoding="async" style="background-image: none; display: inline; float: left; padding-left: 0px; padding-right: 0px; padding-top: 0px; border: 0px;" title="2012 - May Camping Trip - Satellite Dish" src="/travel/wp-content/uploads/2012/05/2012-252520-252520Camping-252520Trip-003_thumb-300x225.jpg" alt="2012 - May Camping Trip - Satellite Dish" width="244" height="184" align="left" border="0" /></a>We’ve been out in the camper for a week now, three moves, and we’ve enjoyed having satellite TV every day.  The carryout works pretty good.  I think I’ll get better at deploying it as I use it more.  Basically, you set it out where you think it will be able to see the southern sky.  Hook up the power and the receiver and wait for it to find the satellites.  Once they are found picture appears on the TV screen and you start watching TV.</p>
+<p>When it works like that, well, what more could you ask for?</p>
+<p style="text-align: center;"><a href="/travel/tag/satellite/">Related posts are here.</a></p>
+<p>If you put it in the wrong place and it can’t find the satellites – or if it only finds one and not the other, you wait awhile (and at this point I haven’t figured out how long it’s supposed to be) and then move it to a more likely location, disconnect the power, reconnect the power, and wait again.</p>
+<p><a href="/travel/wp-content/uploads/2012/05/2012-252520-252520Colorado-252520River-252520Thousand-252520Trails-252520Columbus-252520TX-002_thumb.jpg"><img decoding="async" style="background-image: none; display: inline; float: left; padding-left: 0px; padding-right: 0px; padding-top: 0px; border: 0px;" title="Wineguard Carryout - Yes it works right there" src="/travel/wp-content/uploads/2012/05/2012-252520-252520Colorado-252520River-252520Thousand-252520Trails-252520Columbus-252520TX-002_thumb-300x225.jpg" alt="Wineguard Carryout - Yes it works right there" width="244" height="184" align="left" border="0" /></a>Another complication I finally realized is that the coax connector on my new Wineguard is, I think, a bit flaky.  With the TV on, receiving the satellite just fine, I can reach around to the back of the receiver and put a bit of pressure on the connector and the receiver will immediately report “complete signal loss” – if I release the pressure the picture is back.  I’m not sure, but I think there was at least one time that I kept moving the Carryout, thinking that it wasn’t seeing the satellite when, actually the connection wasn’t quite right.</p>
+<p>Again, as I use the Carryout more I think I’ll have a better idea as to where it’s likely to find the satellites and, once the coax is fixed/replaced I think I’m going to like it.</p>
+<p>&#8212;&#8211;</p>
+<p>PS: Sept 2014 Update: I used the Carryout with generally positive results.  I had to replace the 12V plug on it (the original was of some strange design and broke easily).  I also had to send it back for service because of my own blunder.  When it stopped being able to lock onto satellites the factory guy said it needed to be returned for repairs.  I opted to go with a standard satellite instead.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

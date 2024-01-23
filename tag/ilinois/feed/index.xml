@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ilinois &#8211; Here and There</title>
+	<atom:link href="/travel/tag/ilinois/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Tue, 04 Jun 2013 01:28:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Review: John Deere, Moline, IL</title>
+		<link>/travel/2013/06/04/review-john-deere-moline-il/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Tue, 04 Jun 2013 01:28:34 +0000</pubDate>
+				<category><![CDATA[Jackie]]></category>
+		<category><![CDATA[Ilinois]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[sightseeing]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/?p=172</guid>
+
+					<description><![CDATA[Jackie writes&#8230; Deere &#38; Company World Headquarters on One John Deere Place is a beautiful building designed by architect Eero Saarinen.  It is set in wooded surroundings and is beautiful.  In the lower level there are more antique tractors and plows along with heavy equipment and large harvesters. I am amazed at the size of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Jackie writes&#8230;</p>
+<p><span><img decoding="async" src="http://lh4.ggpht.com/-pJ4VAFPgYok/Ua1BrggAT1I/AAAAAAAATEE/IuSF-jTBsHg/s144-c-o/2013-06-03%25252014.28.59.jpg"/> Deere &amp; Company World Headquarters on One John Deere Place is a beautiful building designed by architect Eero Saarinen.  It is set in wooded surroundings and is beautiful.  In the lower level there are more antique tractors and plows along with heavy equipment and large harvesters. I am amazed at the size of the some of the equipment used now when compared to the old tractors and plows that were pulled by horses or oxen.   We saw the golden plow that was at various World fairs and trade shows.  Along one entire wall the history of the Company is shown with other historical memorabilia starting in the 1800’s. </span></p>
+<p>We had a lot of fun visiting John Deere and recommend it as a great place to spend an afternoon.</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyDvXxk61eaR_5-wEMmiogOzuED0IJtZizuAzv6wIF1cmuhX6Jx5Y1ig5JelZ1HOJjS8QOGh_aQQD1/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
