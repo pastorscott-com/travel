@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>coffee &#8211; Here and There</title>
+	<atom:link href="/travel/tag/coffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Sun, 04 Jul 2010 16:03:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Planning averts disaster!</title>
+		<link>/travel/2010/07/04/planning-averts-disaster/</link>
+		
+		<dc:creator><![CDATA[grscott]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2010 16:03:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[camping]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[humor]]></category>
+		<guid isPermaLink="false">http://www.pastorscott.com/travel/planning-averts-disaster/</guid>
+
+					<description><![CDATA[This morning my electric coffee maker quit working.  As you can guess, such a disaster would have ended our vacation and caused us to have to come home early. But all was not lost! Under the kitchen sink of our camper, stored away for &#8220;dry camping&#8221; was my old time flame powered peculator.  Even as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This morning my electric coffee maker quit working.  As you can guess,  such a disaster would have ended our vacation and caused us to have to  come home early.</p>
+<p>But all was not lost!</p>
+<p>Under the kitchen sink of our camper, stored away for &#8220;dry camping&#8221; was my old time  flame powered peculator.  Even as I type these words, my afternoon pot  of coffee is happily perking away to the tune of &#8220;the best part of  waking up is Folgers in my cup.&#8221;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

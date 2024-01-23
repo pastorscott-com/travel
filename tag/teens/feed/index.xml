@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teens &#8211; Here and There</title>
+	<atom:link href="/travel/tag/teens/feed/" rel="self" type="application/rss+xml" />
+	<link>/travel</link>
+	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
+	<lastBuildDate>Wed, 05 Feb 2020 21:20:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>2014 Coupville Washington Library</title>
+		<link>/travel/2014/06/24/2014-coupville-washington-library/</link>
+		
+		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2014 19:01:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[Computers]]></category>
+		<category><![CDATA[Friends of the Library]]></category>
+		<category><![CDATA[Library]]></category>
+		<category><![CDATA[Public Library]]></category>
+		<category><![CDATA[teens]]></category>
+		<guid isPermaLink="false">http://pastorscott.com/library/?p=274</guid>
+
+					<description><![CDATA[Coupeville Public Library Coupeville, WA 98239-0745 Coupeville Public Library http://www.sno-isle.org/locations/coupeville/ is part of the SNO-ISLE Libraries serving Snohomish and Island counties. This lovely library in Coupeville has several displays set up to encourage reading by all ages. The building is inviting with places to set and read, public access to the internet and many windows [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Coupeville Public Library</p>
+<p>Coupeville, WA 98239-0745</p>
+<p>Coupeville Public Library http://www.sno-isle.org/locations/coupeville/ is part of the SNO-ISLE Libraries serving Snohomish and Island counties.</p>
+<p>This lovely library in Coupeville has several displays set up to encourage reading by all ages. The building is inviting with places to set and read, public access to the internet and many windows giving it an open feeling. What caught my eye was the beautiful arch over the entrance to the children’s department and the Large Print collection near the reading area. The Friends of the Library have a book sale area near the entrance.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
