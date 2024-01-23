@@ -9,8 +9,8 @@
 
 <channel>
 	<title>artists &#8211; Here and There</title>
-	<atom:link href="/travel/tag/artists/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/artists/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 25 Sep 2013 22:18:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Justin Potter Library</title>
-		<link>/travel/2013/09/25/justin-potter-library/</link>
+		<link>//2013/09/25/justin-potter-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Wed, 25 Sep 2013 22:18:11 +0000</pubDate>

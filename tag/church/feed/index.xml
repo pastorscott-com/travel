@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Church &#8211; Here and There</title>
-	<atom:link href="/travel/tag/church/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/church/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 20 Feb 2020 01:56:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2020 &#8211; Plans written in Jello</title>
-		<link>/travel/2020/02/18/2020-plans-written-in-jello/</link>
+		<link>//2020/02/18/2020-plans-written-in-jello/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Tue, 18 Feb 2020 23:30:04 +0000</pubDate>
@@ -32,7 +32,7 @@
 		<guid isPermaLink="false">http://pastorscott.com/travel/?p=4524</guid>
 
 					<description><![CDATA[The phrase &#8220;our plans are written in jello&#8221; didn&#8217;t originate with us. However, we think it&#8217;s a great way to describe not only our touring RV lifestyle but our general approach to living. Twice before we adjusted our plans to serve as interim pastor. This year we&#8217;ve been asked to serve the Houston Southwest Church [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-4525" src="/travel/wp-content/uploads/2020/02/southwest-1024x580.jpg" alt="" width="960" height="544" srcset="/travel/wp-content/uploads/2020/02/southwest-1024x580.jpg 1024w, /travel/wp-content/uploads/2020/02/southwest-300x170.jpg 300w, /travel/wp-content/uploads/2020/02/southwest-768x435.jpg 768w, /travel/wp-content/uploads/2020/02/southwest-1536x869.jpg 1536w, /travel/wp-content/uploads/2020/02/southwest.jpg 2048w" sizes="(max-width: 960px) 100vw, 960px" /><br />
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-4525" src="//wp-content/uploads/2020/02/southwest-1024x580.jpg" alt="" width="960" height="544" srcset="//wp-content/uploads/2020/02/southwest-1024x580.jpg 1024w, //wp-content/uploads/2020/02/southwest-300x170.jpg 300w, //wp-content/uploads/2020/02/southwest-768x435.jpg 768w, //wp-content/uploads/2020/02/southwest-1536x869.jpg 1536w, //wp-content/uploads/2020/02/southwest.jpg 2048w" sizes="(max-width: 960px) 100vw, 960px" /><br />
 The phrase &#8220;our plans are written in jello&#8221; didn&#8217;t originate with us. However, we think it&#8217;s a great way to describe not only our touring RV lifestyle but our general approach to living. Twice before we adjusted our plans to serve as interim pastor. This year we&#8217;ve been asked to serve the Houston Southwest Church of the Nazarene in Richmond, TX during their pastoral transition. We&#8217;re enjoying getting to know the good folks of the church &#8211; they&#8217;ve made us feel right at home.</p>
 <p>Hopefully, our presence will smooth the transition between pastors. Once we finish at Southwest we plan on yet another type of RV adventure, but that plan is also written in jello at this point.</p>
 ]]></content:encoded>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>London &#8211; Here and There</title>
-	<atom:link href="/travel/tag/london/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/london/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 20 Jun 2023 09:19:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2023 &#8211; London views</title>
-		<link>/travel/2023/06/20/2023-london-views/</link>
+		<link>//2023/06/20/2023-london-views/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Tue, 20 Jun 2023 09:19:41 +0000</pubDate>

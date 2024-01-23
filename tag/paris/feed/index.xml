@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Paris &#8211; Here and There</title>
-	<atom:link href="/travel/tag/paris/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/paris/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 25 Oct 2011 01:38:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Doing a budget for our London/Paris trip</title>
-		<link>/travel/2011/10/24/doing-a-budget-for-our-londonparis-trip/</link>
+		<link>//2011/10/24/doing-a-budget-for-our-londonparis-trip/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2011 01:38:00 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Minnesota &#8211; Here and There</title>
-	<atom:link href="/travel/tag/minnesota/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/minnesota/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sun, 13 Aug 2017 14:14:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2017 &#8211; Lake Geneva Christian Center &#8211; Alexandria, MN</title>
-		<link>/travel/2017/08/13/2017-lake-geneva-christian-center-alexandria-mn/</link>
+		<link>//2017/08/13/2017-lake-geneva-christian-center-alexandria-mn/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 13 Aug 2017 14:14:17 +0000</pubDate>
@@ -35,7 +35,7 @@
 					<description><![CDATA[This is a beautiful place with great lake views, nice, up-to-date facilities plus a several old time camping cabins. We limited our involvement to attending the worship services which we felt were very good. As always happens with Church of the Nazarene events we met many people who know the same people we know. One [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://lh3.googleusercontent.com/-LBCCry3JpFY/WZBX6jR6grI/AAAAAAAAtf0/dyN-KUg--pwDKMns_LcfJXYv-ab-eIn7gCCoYBhgL/s144-o/20170809_095812.jpg"/>This is a beautiful place with great lake views, nice, up-to-date facilities plus a several old time camping cabins.  We limited our involvement to attending the worship services which we felt were very good.  As always happens with Church of the Nazarene events we met many people who know the same people we know.  </p>
 <p>One new friend suggested we put Prairie Lakes District Family Camp on our schedule for next year.  I don’t think our travel plans will bring us to this part of the country next year, but I wouldn’t be surprised if we find our way back sometime over the next few years.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-r6IHXK_1mQSqJntkfv8RbnExl0UZDhr-Ky-nD_TndwDq-wxZ0O65oIbnSbys2cuZgp6k9gi_qU47/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-r6IHXK_1mQSqJntkfv8RbnExl0UZDhr-Ky-nD_TndwDq-wxZ0O65oIbnSbys2cuZgp6k9gi_qU47/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

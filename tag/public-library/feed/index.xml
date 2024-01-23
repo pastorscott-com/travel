@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Public Library &#8211; Here and There</title>
-	<atom:link href="/travel/tag/public-library/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/public-library/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Mon, 25 May 2015 02:24:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Lake Whitney TX Public Library</title>
-		<link>/travel/2015/05/25/lake-whitney-tx-public-library/</link>
+		<link>//2015/05/25/lake-whitney-tx-public-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Mon, 25 May 2015 02:24:25 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<guid isPermaLink="false">http://pastorscott.com/library/?p=456</guid>
 
 					<description><![CDATA[Lake Whitney, TX Public Library 602 E. Jefferson Ave, Whitney, TX 76692 This beautiful library is just a few years old with something for all ages. I was greeted by a warm and friendly staff who are available to answer questions and give directions. I appreciated the ongoing book sale a was able to pick [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="/travel/wp-content/uploads/2015/05/PHOTO_20150521_145747.jpg"><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-460" src="/travel/wp-content/uploads/2015/05/PHOTO_20150521_145747-300x169.jpg" alt="PHOTO_20150521_145747" width="300" height="169" /></a>Lake Whitney, TX Public Library<br />
+										<content:encoded><![CDATA[<p><a href="//wp-content/uploads/2015/05/PHOTO_20150521_145747.jpg"><img fetchpriority="high" decoding="async" class="aligncenter size-medium wp-image-460" src="//wp-content/uploads/2015/05/PHOTO_20150521_145747-300x169.jpg" alt="PHOTO_20150521_145747" width="300" height="169" /></a>Lake Whitney, TX Public Library<br />
 602 E. Jefferson Ave, Whitney, TX 76692</p>
 <p>This beautiful library is just a few years old with something for all ages. I was greeted by a warm and friendly staff who are available to answer questions and give directions. I appreciated the ongoing book sale a was able to pick a paperback to carry and read this summer. For more information go to <a href="http://www.whitneylibrary.org/">whitneylibrary.org</a>.</p>
 ]]></content:encoded>

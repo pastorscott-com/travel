@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ohio &#8211; Here and There</title>
-	<atom:link href="/travel/tag/ohio/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/ohio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sat, 07 Sep 2019 16:05:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Sightseeing Along Lake Erie in N.E. Ohio</title>
-		<link>/travel/2019/09/07/2019-sightseeing-along-lake-erie-in-n-e-ohio/</link>
+		<link>//2019/09/07/2019-sightseeing-along-lake-erie-in-n-e-ohio/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sat, 07 Sep 2019 16:05:57 +0000</pubDate>
@@ -45,7 +45,7 @@ Our stay in northeastern Ohio was a longer stay for us and that gave us plenty o
 <p>On a clear sunny day we took a picnic and visited a few of the many <strong>parks along Lake Erie</strong>. It was fun seeing the various parks. One was small with few picnic tables and small playground. Another had a large covered area with tables and a concession with boardwalks down to the beach. Yet another had a covered area with tables and several porch type swings with the beach area adjacent to it. We had a pleasant lunch by carrying our lunch and chairs down close to the water. A nice quiet way to spend a few hours.</p>
 <p>When we saw advertising about a <strong>balloon glow</strong> not far from our campground we decided to go. There were eight of the giant hot air balloons that were beautiful when lit up.  There were a lot of people there enjoying the display.  The business, Debonné, hosts a full scale hot air balloon festival in the spring, it must be amazing to see.</p>
 <p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxKDw3J2kNLv8ew5hlbVeUzo9yIlTH17SAw-zbCzE6i_3CBpqVNb15k0pN3E7JxC3hSdpRqrUf76d7/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-<p style="text-align: center;"><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
+<p style="text-align: center;"><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
 <p style="text-align: center;">Click this for full screen photos</p>
 ]]></content:encoded>
 					

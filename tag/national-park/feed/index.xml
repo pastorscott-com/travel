@@ -9,8 +9,8 @@
 
 <channel>
 	<title>National Park &#8211; Here and There</title>
-	<atom:link href="/travel/tag/national-park/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/national-park/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 04 Apr 2023 09:36:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2022 &#8211; Northern Wales</title>
-		<link>/travel/2022/10/16/2022-northern-wales/</link>
+		<link>//2022/10/16/2022-northern-wales/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 16 Oct 2022 16:30:23 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>bulletin board &#8211; Here and There</title>
-	<atom:link href="/travel/tag/bulletin-board/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/bulletin-board/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 05 Nov 2013 23:43:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Montgomery County Memorial Library System Central Branch  Conroe, TX</title>
-		<link>/travel/2013/11/05/montgomery-county-memorial-library-system-central-branch-conroe-tx/</link>
+		<link>//2013/11/05/montgomery-county-memorial-library-system-central-branch-conroe-tx/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Tue, 05 Nov 2013 23:43:35 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>RPI &#8211; Here and There</title>
-	<atom:link href="/travel/tag/rpi/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/rpi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 24 Jul 2018 22:47:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2018 &#8211; Shortstop: Quinebaug Cove Campground &#8211; Brimfield, MA</title>
-		<link>/travel/2018/07/24/2018-shortstop-quinebaug-cove-campground-brimfield-ma/</link>
+		<link>//2018/07/24/2018-shortstop-quinebaug-cove-campground-brimfield-ma/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Tue, 24 Jul 2018 22:47:09 +0000</pubDate>
@@ -41,7 +41,7 @@ We stopped off at Quinebaug Cove Campground in Brimfield, MA for just a couple o
 <p>The campground has a nice big pool and several kids were enjoying it.  The nearby town of Sturbridge is historical with lots of shops.  We opted to spend our day going to the Basketball Hall of Fame in Springfield, about 40 minutes away.  </p>
 <p>My Verizon signal was great and I was able to get satellite TV by putting our tripod just outside our front door and raising it to its maximum height.  This was one of those rare times when having a roof mounted dish would have actually been an advantage.</p>
 <p>Everyone I talked to in the campground, especially the staff, was friendly and helpful.  I think this place is okay for travelers who want a brief stop or for those who want a seasonal spot to get out of the city. As a traveler it wouldn&#8217;t be very high on my list as a place to spend anything beyond a night or two. </p>
-<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSFCe3T7tM1FEs8Og5fSeT1L9jBDd1s3czfv3XvBDKu1fPvQbPhfWi05KXgnEvXJRXnF2ApucGkNz8/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
+<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSFCe3T7tM1FEs8Og5fSeT1L9jBDd1s3czfv3XvBDKu1fPvQbPhfWi05KXgnEvXJRXnF2ApucGkNz8/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
 <a href="https://photos.app.goo.gl/EeC39uEu5qmT1KpP6">See individual photos with captions here.</a> </center></p>
 ]]></content:encoded>
 					

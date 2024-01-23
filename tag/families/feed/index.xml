@@ -9,8 +9,8 @@
 
 <channel>
 	<title>families &#8211; Here and There</title>
-	<atom:link href="/travel/tag/families/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/families/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 06 May 2021 01:29:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Happy 8th RVing Anniversary to us!</title>
-		<link>/travel/2021/05/06/happy-8th-rving-anniversary-to-us/</link>
+		<link>//2021/05/06/happy-8th-rving-anniversary-to-us/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Thu, 06 May 2021 01:29:41 +0000</pubDate>

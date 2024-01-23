@@ -9,8 +9,8 @@
 
 <channel>
 	<title>c-max &#8211; Here and There</title>
-	<atom:link href="/travel/tag/c-max/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/c-max/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 17 Apr 2019 21:37:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Project: Our &#8220;new&#8221; 2017 Ford C-Max Energi</title>
-		<link>/travel/2019/04/17/2019-project-our-new-2017-ford-c-max-energi/</link>
+		<link>//2019/04/17/2019-project-our-new-2017-ford-c-max-energi/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Wed, 17 Apr 2019 21:37:48 +0000</pubDate>
@@ -38,7 +38,7 @@
 <p>The next step was getting it ready to tow.  That is a rather big deal as a front base plate has to be installed.  Also, a braking system, tail lights, and tow bar is needed.  We went with the popular Blue Ox baseplate and tow bar.  Then we got the best braking system available for a car being towed behind a diesel motorhome; a SMI Air Force One.  This system uses the power from the motorhome air brakes to operate the car brakes proportionally to the brakes being applied on the motorhome.    None of this was inexpensive – but it was all part of the process of moving from a pickup pulling a big 5th wheel to a motorhome pulling a small car.</p>
 <p>Later on I plan to do an article comparing the 5th wheel experience with the motorhome experience.  I may have more to report on towing the C-Max.  For now, we have just one tow under our belts.  That through Houston I45 traffic to Conroe.  That&#8217;s a tough drive in any kind of vehicle.</p>
 <p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREhmY_wlp4jzAxDknH7gt3MNEsSGYBX707hHoLfeZjSL7WtdOa2qY9nTHRxr6in9XqfIasbROrRXrH/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-<p style="text-align: center;"><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
+<p style="text-align: center;"><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
 <p style="text-align: center;">Click this for full screen photos</p>
 <p></center></p>
 ]]></content:encoded>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Natchez Trace Parkway &#8211; Here and There</title>
-	<atom:link href="/travel/tag/natchez-trace-parkway/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/natchez-trace-parkway/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Fri, 19 Feb 2021 22:21:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2015 &#8211; Shortstop: Natchez, MS State Park</title>
-		<link>/travel/2015/11/08/shortstop-natchez-ms-state-park/</link>
+		<link>//2015/11/08/shortstop-natchez-ms-state-park/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 08 Nov 2015 22:49:03 +0000</pubDate>
@@ -37,7 +37,7 @@
 					<description><![CDATA[I managed to get most of my satellite TV channels but it was a challenge. Had it not been fall with the tree leaves thinning out, I doubt I would have had any success at all. My Verizon 4G was a fairly good 2 bars. Now that I’ve stayed in both campgrounds at Natchez State [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" src="https://1.bp.blogspot.com/-YjEbdcu3ddc/YDA5t87_8iI/AAAAAAABIqQ/V014_W-mSIsl7bLZomcfOuPCY6yCgD0OACPcBGAsYHg/s2048/PHOTO_20151106_171439.jpg" width="2048" height="1155" class="aligncenter size-large" /><br />
 I managed to get most of my satellite TV channels but it was a challenge. Had it not been fall with the tree leaves thinning out, I doubt I would have had any success at all. My Verizon 4G was a fairly good 2 bars. Now that I’ve stayed in both campgrounds at Natchez State Park I think I’d go for Campground B for shorter (no sewer hookup) stays and Campground A for longer stays, and that only if I could get a full hookup site.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7AxyLNne4g2fwwqG1K6rPG-VIvwVx_u_pdaEze96SCM5QWCUMpiqeq4A-P4v-IPwHXhNo2pLLHrOQ/embed?start=true&amp;loop=true&amp;delayms=3000" width="480" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><img decoding="async" class="aligncenter size-thumbnail wp-image-3672" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7AxyLNne4g2fwwqG1K6rPG-VIvwVx_u_pdaEze96SCM5QWCUMpiqeq4A-P4v-IPwHXhNo2pLLHrOQ/embed?start=true&amp;loop=true&amp;delayms=3000" width="480" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><img decoding="async" class="aligncenter size-thumbnail wp-image-3672" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

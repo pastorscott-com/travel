@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Georgia &#8211; Here and There</title>
-	<atom:link href="/travel/tag/georgia/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/georgia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 09 May 2019 01:43:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Little Tallapoosa Park &#8211; Carrollton, GA</title>
-		<link>/travel/2019/05/08/2019-little-tallapoosa-park-carrollton-ga/</link>
+		<link>//2019/05/08/2019-little-tallapoosa-park-carrollton-ga/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Thu, 09 May 2019 01:43:50 +0000</pubDate>
@@ -37,7 +37,7 @@ Little Tallapoosa Park is located on the outskirts of Carrollton, GA and a short
 <p>The roads are all good and the park boasts some very nice paved trails, a small playground, a nice bathhouse with laundry, and a splash pad that I&#8217;m sure gets lots of use in the summertime. The town of Carrollton has all the stores you will need and downtown Atlanta is less than an hour away.</p>
 <p>This county park is a winner and we will happily return to it on future visits to the Atlanta area.</p>
 <p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYCoo3_89cq2KNHnMKdZIlcPZlMkjehccQHyVwt12YffIdD8UdR3t2GuJ3DSV5-n0zH-q-LjkHnf_G/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-<p style="text-align: center;"><img decoding="async" src="/travel/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
+<p style="text-align: center;"><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
 <p style="text-align: center;">Click this for full screen photos</p>
 ]]></content:encoded>
 					

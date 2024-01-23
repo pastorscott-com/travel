@@ -9,8 +9,8 @@
 
 <channel>
 	<title>displays &#8211; Here and There</title>
-	<atom:link href="/travel/tag/displays/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/displays/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 03 Oct 2013 20:21:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Lawrenceburg Public Library</title>
-		<link>/travel/2013/10/03/lawrenceburg-public-library/</link>
+		<link>//2013/10/03/lawrenceburg-public-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Thu, 03 Oct 2013 20:21:20 +0000</pubDate>

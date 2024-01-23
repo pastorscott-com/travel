@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tips &#8211; Here and There</title>
-	<atom:link href="/travel/tag/tips/feed/" rel="self" type="application/rss+xml" />
-	<link>/travel</link>
+	<atom:link href="//tag/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 05 Feb 2020 19:29:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2015 &#8211; Tip: Other uses of Google Maps</title>
-		<link>/travel/2015/11/27/tip-other-uses-of-google-maps/</link>
+		<link>//2015/11/27/tip-other-uses-of-google-maps/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sat, 28 Nov 2015 04:07:25 +0000</pubDate>
