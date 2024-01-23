@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mary L. Cook &#8211; Here and There</title>
-	<atom:link href="//tag/mary-l-cook/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/mary-l-cook/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sat, 29 Jun 2013 21:54:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Mary L. Cook Public Library</title>
-		<link>//2013/06/29/mary-l-cook-public-library/</link>
+		<link>/2013/06/29/mary-l-cook-public-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Sat, 29 Jun 2013 21:54:24 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>product &#8211; Here and There</title>
-	<atom:link href="//tag/product/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/product/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sat, 02 Mar 2019 00:29:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Project: Roof Vents Repair and Upgrade</title>
-		<link>//2019/03/01/2019-project-roof-vents-repair-and-upgrade/</link>
+		<link>/2019/03/01/2019-project-roof-vents-repair-and-upgrade/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sat, 02 Mar 2019 00:29:10 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Michigan &#8211; Here and There</title>
-	<atom:link href="//tag/michigan/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/michigan/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sat, 09 Jun 2018 19:36:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2018 &#8211; Bear Cave Thousand Trails &#8211; Buchanan, MI</title>
-		<link>//2018/06/09/2018-bear-cave-thousand-trails-buchanan-mi/</link>
+		<link>/2018/06/09/2018-bear-cave-thousand-trails-buchanan-mi/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sat, 09 Jun 2018 19:36:53 +0000</pubDate>
@@ -39,7 +39,7 @@
 <p>The campground has a big pool (too cold for us in early June &#8211; but well-used by the kids) and a big Activity Center.  The spa was out of service. These are a ways from the FHU section of the campground.</p>
 <p>During our visit the cave itself was closed due to winter flooding. Work was being done on it and on the nice river walkway that was also damaged. The nicest feature of the campground, in my opinion, was a pretty waterfall that is right at the heart of the campground. In fact, there are some campsites that overlook the waterfall. I imagine that with the sound of the water that tenting in those sites must be great for sleeping!</p>
 <p>Really, I think there&#8217;s a lot to like about this campground. It is a bit tired and in need of some corporate financial TLC but really, this is a pretty good Thousand Trails.</p>
-<p><iframe width="504" height="284" src="https://www.youtube.com/embed/sOegvYGNARQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe width="504" height="284" src="https://www.youtube.com/embed/sOegvYGNARQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 <p><center><a href="https://photos.app.goo.gl/S69XTbaJADZRrgjp7">See the individual photos with captions here.</a></center></p>
 ]]></content:encoded>
 					

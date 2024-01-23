@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Missouri &#8211; Here and There</title>
-	<atom:link href="//tag/missouri/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/missouri/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 09 Oct 2019 21:22:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Beagle Bay RV Park &#8211; Sarcoxie, MO</title>
-		<link>//2019/10/09/2019-beagle-bay-rv-park-sarcoxie-mo/</link>
+		<link>/2019/10/09/2019-beagle-bay-rv-park-sarcoxie-mo/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Wed, 09 Oct 2019 21:22:59 +0000</pubDate>
@@ -38,7 +38,7 @@ We were invited to serve as speakers for a series of services at Mt Vernon, MO C
 <p>Several sites are occupied by longer term residents &#8211; mostly working people who get up every morning and return in the evenings.  Their campsites are generally orderly and we had no negative impression of them at all.  The campground workers were friendly and helpful.  </p>
 <p>Most travelers stop off just for an overnight and this campground is quite suitable for that: right on the interstate, pull through sites, easy in and out. This is far from our favorite campground, but we&#8217;d stay at it again without any hesitation.</p>
 <p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW0FE6lpagQ28cO22NeNowJsr7Ag0YtwUek0HhrgmCo5qm0Jw9LoqEsOLGgCrtkjnCYS7NyGnGabS1/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-<p style="text-align: center;"><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
+<p style="text-align: center;"><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
 <p style="text-align: center;">Click this for full screen photos</p>
 ]]></content:encoded>
 					

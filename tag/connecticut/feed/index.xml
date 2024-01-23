@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Connecticut &#8211; Here and There</title>
-	<atom:link href="//tag/connecticut/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/connecticut/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Mon, 20 Aug 2018 23:51:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2018 &#8211; Bear Creek Campground &#8211; Bristol, CT</title>
-		<link>//2018/08/20/2018-bear-creek-campground-bristol-ct/</link>
+		<link>/2018/08/20/2018-bear-creek-campground-bristol-ct/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Mon, 20 Aug 2018 23:51:53 +0000</pubDate>
@@ -38,7 +38,7 @@ Lake Compounce in Bristol, Connecticut is the oldest continually operating amuse
 <p>Our shortstop stay was just for one night as we traveled from southern Maine into Pennsylvania.  The campground is about 10 minutes from I84 and the campsites are all pull-through, making it a handy place for an overnight stay.  When I asked about discounts the lady I talked to on the phone offered me a nightly rate based on a three night stay rather than just one night.  </p>
 <p>Here are a few things you might want to know.  The sites are all water/electric (30/50 amp), no sewer.  Individual shower rooms are available.  There is campground WiFi &#8211; ours got slower as the evening progressed.  There&#8217;s a nearby power plant that can be heard non-stop in the near distance.  </p>
 <p>I had a strong 4G signal and, since the campsites are pretty much out in the open, satellite TV is no problem.    The campground has a play area, but the main recreation is the amusement park.  I think Bear Creek is a good choice for a stop in the Bristol, CT area.</p>
-<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQffPlMl_tRY50l15tc9IY0kkCOEihp5cblkmTuFdgi4aRV4w2qM2hsaB39zDVdZFUIl4zh2o0ZrKjH/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
+<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQffPlMl_tRY50l15tc9IY0kkCOEihp5cblkmTuFdgi4aRV4w2qM2hsaB39zDVdZFUIl4zh2o0ZrKjH/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
 <a href="https://photos.app.goo.gl/UBKEKr71YJNYpGANA">See individual photos with captions here.</a></center></p>
 ]]></content:encoded>
 					

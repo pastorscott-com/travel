@@ -9,8 +9,8 @@
 
 <channel>
 	<title>wifi &#8211; Here and There</title>
-	<atom:link href="//tag/wifi/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/wifi/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 05 Feb 2020 19:26:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2016 &#8211; Advice: getting Internet while RVing</title>
-		<link>//2016/08/03/advice-getting-internet-while-rving/</link>
+		<link>/2016/08/03/advice-getting-internet-while-rving/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Thu, 04 Aug 2016 02:52:38 +0000</pubDate>

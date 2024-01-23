@@ -9,8 +9,8 @@
 
 <channel>
 	<title>South Dakota &#8211; Here and There</title>
-	<atom:link href="//tag/south-dakota/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/south-dakota/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Tue, 28 Jan 2020 19:10:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2017 &#8211; Black Hills Monuments &#8211; Rushmore and Crazy Horse</title>
-		<link>//2017/09/07/2017-black-hills-monuments-rushmore-and-crazy-horse/</link>
+		<link>/2017/09/07/2017-black-hills-monuments-rushmore-and-crazy-horse/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2017 23:22:04 +0000</pubDate>
@@ -39,7 +39,7 @@
 Mount Rushmore is spectacular and I would come again to see this monument honoring our country. The size and detail are amazing in the daytime and beautiful at night. After dark we saw a short movie about the monument, heard stories from a park ranger, and watched the lowering of the American flag by ex-servicemen from the audience. This monument is cared for by the National park Service and includes a visitors’ center, gift shops, and museum where we watched a movie telling the story of how it all came about. The artist, Gutzon Borglum, was a first generation American of Danish decent.  He began the project in 1925 and it was completed by his son Lincoln shortly after his father’s death in 1941.</p>
 <p>Black Hills, SD &#8211; Crazy Horse Memorial&#8221; type=&#8221;image&#8221; alt=&#8221;20170906_195341.jpg&#8221; ] We also enjoyed going to the Crazy Horse Memorial.  This is a family owned monument and the ongoing work of Korczak Ziolkowski and his family. There are American Indian artifacts and items on display as well as a gift shop and a restaurant. Ziolkowski and his wife have passed on but his children continue the sculpting. We were lucky enough to be there for not only one of the nightly laser light shows but also one the two nighttime dynamite blasts that are done each year.  Although it was extremely crowded we found indoor seating that allowed a great view of the light show and blasting.  We’ve never seen anything like the blasting, as over 100 charges were set off in rapid succession, each one with a “boom” and fiery flash of light.</p>
 <p>Both of these monuments are worth a visit and both should be visited in the early evening so they can be seen in both daylight and under lighting.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPoYko5nkUWcf2qbL1AolaUch2iao4lXwtgV8H-uZXxnmL6tZwpRvBqprIYbUdkVhS2gmr21T8NFQE/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPoYko5nkUWcf2qbL1AolaUch2iao4lXwtgV8H-uZXxnmL6tZwpRvBqprIYbUdkVhS2gmr21T8NFQE/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

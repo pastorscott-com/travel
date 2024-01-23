@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Digital Resources &#8211; Here and There</title>
-	<atom:link href="//tag/digital-resources/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/digital-resources/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 05 Feb 2020 21:18:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Jeff Davis Library</title>
-		<link>//2014/10/24/jeff-davis-library/</link>
+		<link>/2014/10/24/jeff-davis-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Fri, 24 Oct 2014 19:54:30 +0000</pubDate>

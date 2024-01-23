@@ -9,8 +9,8 @@
 
 <channel>
 	<title>North Carolina &#8211; Here and There</title>
-	<atom:link href="//tag/north-carolina/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/north-carolina/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Fri, 24 May 2019 01:09:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2019 &#8211; Shortstop: Holly Point Campground &#8211; Wake Forest, NC</title>
-		<link>//2019/05/23/2019-shortstop-holly-point-campground-wake-forest-nc/</link>
+		<link>/2019/05/23/2019-shortstop-holly-point-campground-wake-forest-nc/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Fri, 24 May 2019 01:09:28 +0000</pubDate>
@@ -44,7 +44,7 @@ Our one night stop at Holly Point Campground in Wake Forest, NC was an unplanned
 <p>My Verizon signal was good. Didn&#8217;t try to put the satellite up but I&#8217;m pretty sure I would have struck out at least from the site we picked.</p>
 <p>Tell you what, it would, indeed, be a nice place to spend Memorial Day weekend.</p>
 <p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYwx8jMjaj9qoP7KpVF_N8wEaVC9bdd3ojtv_mizwiA3kuwjipag3r1OFnG2yvI4MwoJ1zg7QJP5im/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-<p style="text-align: center;"><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
+<p style="text-align: center;"><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" /></p>
 <p style="text-align: center;">Click this for full screen photos</p>
 ]]></content:encoded>
 					

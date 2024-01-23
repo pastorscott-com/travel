@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Trails Collection &#8211; Here and There</title>
-	<atom:link href="//tag/trails-collection/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/trails-collection/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sun, 05 Aug 2018 21:57:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2018 &#8211; Mt Desert Narrows Camping &#8211; Bar Harbor, ME</title>
-		<link>//2018/08/05/2018-mt-desert-narrows-camping-bar-harbor-me/</link>
+		<link>/2018/08/05/2018-mt-desert-narrows-camping-bar-harbor-me/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 05 Aug 2018 21:57:57 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>We really enjoyed having the Island Explorer Shuttle stopping right at the campground.  Using the shuttles we could make connections to downtown Bar Harbor and most of the famous spots in the park.  We had to drive up to the summit of Cadillac Mountain because the shuttles don&#8217;t go there.  Aside from that the pickup was left parked except for a couple of trips to the grocery and for church on Sunday.  </p>
 <p>The campground WiFi was decent and several sites have cable TV.  We happily used their WiFi but I sat up the satellite dish so we could watch the Astros games (for some reason the local channels fail to air our Houston team, what&#8217;s up with that?).  I had a weaker but usable 4G Verizon signal.  </p>
 <p>I think on a future trip I would again try to get a spot at Narrows Too just to have FHU but otherwise I would return to Mt Desert Narrows, no complaints.</p>
-<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7SVRr_RffNCTNGaG-nQEZbAAG9shiqC3kBzzcigp29UNCSD4suilp5GEyZ7ljiaxs0lZjvq_843-H/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
+<p><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7SVRr_RffNCTNGaG-nQEZbAAG9shiqC3kBzzcigp29UNCSD4suilp5GEyZ7ljiaxs0lZjvq_843-H/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos<br />
 <a href="https://photos.app.goo.gl/Hkio9okPoUDPGi2P9">See individual photos with captions here.</a></center></p>
 ]]></content:encoded>
 					

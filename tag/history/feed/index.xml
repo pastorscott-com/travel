@@ -9,8 +9,8 @@
 
 <channel>
 	<title>history &#8211; Here and There</title>
-	<atom:link href="//tag/history/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/history/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Mon, 15 Jan 2024 03:59:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2024   Regal Princess Cruise &#8211; Galveston, Cozumel, Belize, Roatan</title>
-		<link>//2024/01/15/2024-regal-princess-cruise-galveston-cozumel-belize-roatan/</link>
+		<link>/2024/01/15/2024-regal-princess-cruise-galveston-cozumel-belize-roatan/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Mon, 15 Jan 2024 02:59:49 +0000</pubDate>
@@ -33,7 +33,7 @@
 		<category><![CDATA[planning]]></category>
 		<category><![CDATA[review]]></category>
 		<category><![CDATA[sightseeing]]></category>
-		<guid isPermaLink="false">//?p=5234</guid>
+		<guid isPermaLink="false">/?p=5234</guid>
 
 					<description><![CDATA[We decided to take a Caribbean Cruise out of Galveston. This was our second cruise but our first in several years. Cruise Planning – picking a cruise, selecting a room After spending a lot of time researching forums and checking out prices from various sources online, we decided the Regal Princess would fit the bill! [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><iframe title="2024  - Regal Princess Cruise - Galveston, Cozumel, Belize, Roatan" width="960" height="540" src="https://www.youtube.com/embed/3oaxNy7DSc0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

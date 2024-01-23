@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Colorado &#8211; Here and There</title>
-	<atom:link href="//tag/colorado/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/colorado/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 01 May 2014 13:13:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Shortstop: La Mesa RV Park, Cortez, CO</title>
-		<link>//2014/05/01/shortstop-la-mesa-rv-park-cortez-co/</link>
+		<link>/2014/05/01/shortstop-la-mesa-rv-park-cortez-co/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Thu, 01 May 2014 13:13:46 +0000</pubDate>
@@ -37,7 +37,7 @@
 <p>As you can guess, then, we were happy to arrive at La Mesa R.V. Park in Cortez, CO.  The lady who checked us in was friendly and efficient and we were soon happy to be parked in a nice wide and level pull through gravel spot for a couple of nights.</p>
 <p>We pretty much took shelter for the evening as the winds continued to blow and the temperatures continued to drop.  Both nights of our stay in Cortez saw temperatures drop below freezing &#8211; not unheard off, but unseasonably cold.  </p>
 <p>You might say that this park is &#8220;handy.&#8221;  The Walmart we should have bought our groceries in is a couple of minutes down the street.  There are many restaurants and other businesses quite nearby.  There are lots of scenic and historical places nearby but the biggie is Mesa Verde National Park &#8211; the entrance is just nine miles to the east.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmALKZV5uaBBXfAaDvE0aMOkVYSXZXHEVBaMUc0TIzQtr6NgO8o5asgD6XFa12ztpwTDBsNCGgiWQx/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmALKZV5uaBBXfAaDvE0aMOkVYSXZXHEVBaMUc0TIzQtr6NgO8o5asgD6XFa12ztpwTDBsNCGgiWQx/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

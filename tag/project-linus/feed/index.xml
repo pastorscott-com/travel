@@ -9,8 +9,8 @@
 
 <channel>
 	<title>project Linus &#8211; Here and There</title>
-	<atom:link href="//tag/project-linus/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/project-linus/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Thu, 16 May 2013 17:58:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Whitesboro, TX Public Library</title>
-		<link>//2013/05/16/whitesboro-tx-public-library/</link>
+		<link>/2013/05/16/whitesboro-tx-public-library/</link>
 		
 		<dc:creator><![CDATA[Jackie Cundiff]]></dc:creator>
 		<pubDate>Thu, 16 May 2013 17:58:48 +0000</pubDate>

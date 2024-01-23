@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Quicktip &#8211; Here and There</title>
-	<atom:link href="//tag/quicktip/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/quicktip/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sun, 18 Oct 2020 01:08:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2020 &#8211; Quick Tip &#8211; Water Filter Stand</title>
-		<link>//2020/10/18/2020-quick-tip-water-filter-stand/</link>
+		<link>/2020/10/18/2020-quick-tip-water-filter-stand/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 18 Oct 2020 01:08:12 +0000</pubDate>

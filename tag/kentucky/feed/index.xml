@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kentucky &#8211; Here and There</title>
-	<atom:link href="//tag/kentucky/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/kentucky/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 10 May 2017 19:55:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2017 &#8211; Campground Review: Fort Boonesborough State Park, KY</title>
-		<link>//2017/05/10/2017-campground-review-fort-boonesborough-state-park-ky/</link>
+		<link>/2017/05/10/2017-campground-review-fort-boonesborough-state-park-ky/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Wed, 10 May 2017 19:55:11 +0000</pubDate>
@@ -36,7 +36,7 @@
 
 					<description><![CDATA[Of course, the reason for this state park is that this is the location of Fort Boonesborough which was constructed in 1775 by Daniel Boone and those he lead. Today the recreated fort is a living history museum. We thoroughly enjoyed looking around, watching an informative film, and especially chatting with the folks who gave [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><img decoding="async" src="https://lh3.googleusercontent.com/-mB_bZBtVZXk/WRJMV52PpwI/AAAAAAAArtE/TIu4nMBAK-AgL5ERaH_nk7K8bRpIJ-HbwCCo/s144-o/20170509_113458.jpg"/> Of course, the reason for this state park is that this is the location of Fort Boonesborough which was constructed in 1775 by Daniel Boone and those he lead.  Today the recreated fort is a living history museum.  We thoroughly enjoyed looking around, watching an informative film, and especially chatting with the folks who gave us a glimpse into life at the fort.  We think the fort is well worth the time and modest entry fee and highly recommend it to all traveling through this Kentucky bluegrass country.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTXGOUWJpX07zOUzYSW9AN_yw7x4RTRczjn-duqEWCL2mEdlCtRFq1BB6WBE2GEuOfc6Kea3x6WVkUH/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTXGOUWJpX07zOUzYSW9AN_yw7x4RTRczjn-duqEWCL2mEdlCtRFq1BB6WBE2GEuOfc6Kea3x6WVkUH/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

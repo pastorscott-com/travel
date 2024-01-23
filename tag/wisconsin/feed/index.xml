@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Wisconsin &#8211; Here and There</title>
-	<atom:link href="//tag/wisconsin/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/wisconsin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Sun, 02 Aug 2015 20:08:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Campground Review: Holtwood Campground &#8211; Oconto, WI</title>
-		<link>//2015/08/02/campground-review-holtwood-campground-oconto-wi/</link>
+		<link>/2015/08/02/campground-review-holtwood-campground-oconto-wi/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 02 Aug 2015 20:08:52 +0000</pubDate>
@@ -35,7 +35,7 @@
 										<content:encoded><![CDATA[<p><img decoding="async" src="http://lh3.googleusercontent.com/-ttAyIWO57yQ/Vb5b5s0J8DI/AAAAAAAAkbk/LL7rv8KIz1Y/s144-o/100_4333.JPG"/> The river is a popular kayak/tubing spot and people also catch a variety of fish. Canoes, tubes, etc. are available for rent and firewood is for sale at the camp office. The city pool and ball fields plus a disc golf course is nearby.</p>
 <p>Our site was situated in an interesting spot. We were right on the river, a pretty spot. However, just across the river is a Kwik-Trip convenience store, a mini-golf course, McDonalds, and auto parts store. However, to get to these, and other stores, at least without a boat, we had to drive out of the campground and around it through town, following the river. The driving distance was over a mile and a half. There’s talk about adding a foot bridge, which would be convenient. However, many of the seasonal residents are concerned with the amount of non-camping foot traffic through the campground that would result.</p>
 <p>The campground recommends reservations, and I’m sure they are needed on summer weekends as many folks from Green Bay come for a quick get-away. We had good 4G Verizon and got two of our three Dish Network satellites.  I think it would be easy enough to get all the satellites in some sites and downright impossible to get any of them in others.  All in all, we really like this campground and will likely return on future trips into and through northeast Wisconsin.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7wuUXusKhEu2Gex-3Wv36zUEl8UXgKRfQIrWzOtrEeBir6s-2P-BjxtOk4YWrLwp71PQa_QAG_pUm/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7wuUXusKhEu2Gex-3Wv36zUEl8UXgKRfQIrWzOtrEeBir6s-2P-BjxtOk4YWrLwp71PQa_QAG_pUm/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

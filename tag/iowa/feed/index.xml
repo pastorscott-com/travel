@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Iowa &#8211; Here and There</title>
-	<atom:link href="//tag/iowa/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/iowa/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Fri, 08 Oct 2021 00:53:50 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2017 &#8211; Beeds Lake State Park, Hampton, IA</title>
-		<link>//2017/07/23/2017-beeds-lake-state-park-hampton-ia/</link>
+		<link>/2017/07/23/2017-beeds-lake-state-park-hampton-ia/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Sun, 23 Jul 2017 20:34:12 +0000</pubDate>
@@ -33,10 +33,10 @@
 		<guid isPermaLink="false">http://www.pastorscott.com/travel/?p=2389</guid>
 
 					<description><![CDATA[We were at Beeds Lake State Park in Hampton, Iowa a couple of years ago and I did a review on it then. Things are the same as they were then, so this will be another short review. We had a back in site on our previous visit, but this time we ended up in [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><figure id="attachment_4820" aria-describedby="caption-attachment-4820" style="width: 960px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" src="//wp-content/uploads/2017/07/20170719_204403-1024x576.jpg" alt="" width="960" height="540" class="size-large wp-image-4820" srcset="//wp-content/uploads/2017/07/20170719_204403-1024x576.jpg 1024w, //wp-content/uploads/2017/07/20170719_204403-300x169.jpg 300w, //wp-content/uploads/2017/07/20170719_204403-768x432.jpg 768w, //wp-content/uploads/2017/07/20170719_204403-1536x864.jpg 1536w, //wp-content/uploads/2017/07/20170719_204403.jpg 2048w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption id="caption-attachment-4820" class="wp-caption-text">2017 &#8211; Beed&#8217;s Lake State Park, Hampton, IA</figcaption></figure><br />
-We were at Beeds Lake State Park in Hampton, Iowa a couple of years ago <a href="//2015/07/05/campground-review-beeds-lake-state-park-hampton-ia/">and I did a review on it then</a>. Things are the same as they were then, so this will be another short review. We had a back in site on our previous visit, but this time we ended up in a &#8220;parallel parking&#8221; site. We were here before over Independence Day and the place was packed. This time we arrived during the county fair which takes place close by and the place was full once again. Our parallel parking site worked out just fine, although I chose it because it was on the end of the row and with a bit more elbow room than most. The 50 amp electric was solid and restrooms and showers were okay. I had a decent 4G signal until each evening. At that point the signal was strong enough but I think all the fair goers were overloading the system. Because of trees I was unable to get the Dish western arc satellites so I swapped out LNB&#8217;s and aimed for the eastern arc which I got with no problems.</p>
+										<content:encoded><![CDATA[<p><figure id="attachment_4820" aria-describedby="caption-attachment-4820" style="width: 960px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2017/07/20170719_204403-1024x576.jpg" alt="" width="960" height="540" class="size-large wp-image-4820" srcset="/wp-content/uploads/2017/07/20170719_204403-1024x576.jpg 1024w, /wp-content/uploads/2017/07/20170719_204403-300x169.jpg 300w, /wp-content/uploads/2017/07/20170719_204403-768x432.jpg 768w, /wp-content/uploads/2017/07/20170719_204403-1536x864.jpg 1536w, /wp-content/uploads/2017/07/20170719_204403.jpg 2048w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption id="caption-attachment-4820" class="wp-caption-text">2017 &#8211; Beed&#8217;s Lake State Park, Hampton, IA</figcaption></figure><br />
+We were at Beeds Lake State Park in Hampton, Iowa a couple of years ago <a href="/2015/07/05/campground-review-beeds-lake-state-park-hampton-ia/">and I did a review on it then</a>. Things are the same as they were then, so this will be another short review. We had a back in site on our previous visit, but this time we ended up in a &#8220;parallel parking&#8221; site. We were here before over Independence Day and the place was packed. This time we arrived during the county fair which takes place close by and the place was full once again. Our parallel parking site worked out just fine, although I chose it because it was on the end of the row and with a bit more elbow room than most. The 50 amp electric was solid and restrooms and showers were okay. I had a decent 4G signal until each evening. At that point the signal was strong enough but I think all the fair goers were overloading the system. Because of trees I was unable to get the Dish western arc satellites so I swapped out LNB&#8217;s and aimed for the eastern arc which I got with no problems.</p>
 <p>Our feeling about Beeds Lake is about the same as it was before: it&#8217;s a nice spot if you are okay with electric only, an odd parking setup, and being 10 miles or so off of I35.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1M69hGMutWLa2WTRnBx0Njg_fjaiJ9zWJvtGu9WyiZQBz9xqmXMeKkyy4PhUQG7qgNdS-S2k48C5_/embed?start=true&amp;loop=true&amp;delayms=3000" width="480" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><img decoding="async" class="aligncenter size-thumbnail wp-image-3672" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1M69hGMutWLa2WTRnBx0Njg_fjaiJ9zWJvtGu9WyiZQBz9xqmXMeKkyy4PhUQG7qgNdS-S2k48C5_/embed?start=true&amp;loop=true&amp;delayms=3000" width="480" height="299" frameborder="0" allowfullscreen="allowfullscreen"></iframe><img decoding="async" class="aligncenter size-thumbnail wp-image-3672" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		

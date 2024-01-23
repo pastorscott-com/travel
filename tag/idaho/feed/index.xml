@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Idaho &#8211; Here and There</title>
-	<atom:link href="//tag/idaho/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tag/idaho/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
 	<lastBuildDate>Wed, 14 May 2014 01:29:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>2014 &#8211; A short visit to Northwest Nazarene University, Nampa, ID</title>
-		<link>//2014/05/13/2014-a-short-visit-to-northwest-nazarene-university-nampa-id/</link>
+		<link>/2014/05/13/2014-a-short-visit-to-northwest-nazarene-university-nampa-id/</link>
 		
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Wed, 14 May 2014 01:29:33 +0000</pubDate>
@@ -33,7 +33,7 @@
 
 					<description><![CDATA[Our stop in Nampa was a short one, less than a 24 hour day. However, we enjoyed meeting friends for coffee and then took a quick walk around the campus of Northwest Nazarene University. Being members of the Church of the Nazarene we&#8217;ve heard a lot about this school and it was nice to finally [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Our stop in Nampa was a short one, less than a 24 hour day.  However, we enjoyed meeting friends for coffee and then took a quick walk around the campus of Northwest Nazarene University.  Being members of the Church of the Nazarene we&#8217;ve heard a lot about this school and it was nice to finally see it in person.  There are many original buildings giving it a feeling of history and stability and the campus offers open areas with flowers, fountains, works of art and open areas to enjoy alone or in groups.  The plaques were helpful and a reminder of the history of this Holiness institution.  It&#8217;s easy to see why Nazarenes throughout the northwestern United States are proud of their school.</p>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnJF3zIQbJqy1Hb25a-eCRDCvyg-YLFNEKzzGdfvkfGsHCD3MVP1CKfqHmhdFW1OBEhE-tarviVEgS/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="//wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnJF3zIQbJqy1Hb25a-eCRDCvyg-YLFNEKzzGdfvkfGsHCD3MVP1CKfqHmhdFW1OBEhE-tarviVEgS/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><img decoding="async" src="/wp-content/uploads/2019/01/fullscreen-150x72.png" alt="" width="150" height="72" class="aligncenter size-thumbnail wp-image-3672" />Click this for full screen photos</p>
 ]]></content:encoded>
 					
 		
