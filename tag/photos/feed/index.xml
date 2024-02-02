@@ -12,7 +12,7 @@
 	<atom:link href="/tag/photos/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Scott and Jackie&#039;s Travels – Thousand Trails Reviews, Campground Reviews, Fulltime RVing, European Travel</description>
-	<lastBuildDate>Wed, 05 Sep 2007 17:29:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Feb 2024 02:49:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,12 +26,17 @@
 		<dc:creator><![CDATA[grscott]]></dc:creator>
 		<pubDate>Wed, 05 Sep 2007 17:29:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Colorado]]></category>
+		<category><![CDATA[National Park]]></category>
+		<category><![CDATA[nature]]></category>
 		<category><![CDATA[photos]]></category>
+		<category><![CDATA[sightseeing]]></category>
 		<guid isPermaLink="false">http://www.pastorscott.com/travel/rocky-mountain-national-park/</guid>
 
-					<description><![CDATA[We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike. [pe2-gallery album=&#8221;http://picasaweb.google.com/data/feed/base/user/101128941131953400860/albumid/5106117873576087617?alt=rss&#38;hl=en_US&#38;kind=photo&#8221; ]]]></description>
-										<content:encoded><![CDATA[<p>We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike.</p>
-<p>[pe2-gallery album=&#8221;http://picasaweb.google.com/data/feed/base/user/101128941131953400860/albumid/5106117873576087617?alt=rss&amp;hl=en_US&amp;kind=photo&#8221; ]</p>
+					<description><![CDATA[We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike. &#160;]]></description>
+										<content:encoded><![CDATA[<p><iframe title="2007 -  Rocky Mountain National Park" width="960" height="540" src="https://www.youtube.com/embed/Ply_rbrYibQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p>We are enjoying some downtime at Rocky Mountain National Park. We&#8217;ve done a couple of drives and one 5 mile hike.</p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
 		
