@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 11, 2024 at 8:25 pm by All in One SEO v4.5.6 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on August 29, 2024 at 5:21 pm by All in One SEO v4.6.9.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -7,6 +7,45 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[/2024/08/29/2024-new-england-adventure/]]></loc>
+		<lastmod><![CDATA[2024-08-29T17:20:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/2013/05/28/campground-review-cherry-glen-campground-saylorville-lake-army-corps-of-engineers/]]></loc>
+		<lastmod><![CDATA[2024-04-17T22:55:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/2015/07/01/campground-review-cherry-glen-campground-coe-saylorville-lake-iowa/]]></loc>
+		<lastmod><![CDATA[2024-04-17T22:53:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/2017/07/18/2017-cherry-glen-acoe-campground-ankeny-iowa/]]></loc>
+		<lastmod><![CDATA[2024-04-17T22:51:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/2019/08/17/2019-sightseeing-niagara-falls-and-vicinity/]]></loc>
+		<lastmod><![CDATA[2024-04-14T03:25:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/2013/08/21/skyline-drive-front-royal-udvar-hazey-air-and-space-museum/]]></loc>
+		<lastmod><![CDATA[2024-02-22T03:35:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
 	<url>
 		<loc><![CDATA[/2016/05/03/2016-sightseeing-without-the-houston-traffic-west-of-lake-conroe/]]></loc>
 		<lastmod><![CDATA[2024-02-08T20:43:01+00:00]]></lastmod>
@@ -1301,15 +1340,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/2013/08/21/skyline-drive-front-royal-udvar-hazey-air-and-space-museum/]]></loc>
-		<lastmod><![CDATA[2024-01-31T21:18:02+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[/2013/08/27/places-to-get-information-on-full-time-rving/]]></loc>
 		<lastmod><![CDATA[2024-01-31T21:16:37+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -1384,15 +1414,6 @@
 	<url>
 		<loc><![CDATA[/2013/05/22/campground-review-outlet-park-at-lake-melvern-ks/]]></loc>
 		<lastmod><![CDATA[2024-01-31T20:50:45+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/2013/05/28/campground-review-cherry-glen-campground-saylorville-lake-army-corps-of-engineers/]]></loc>
-		<lastmod><![CDATA[2024-01-31T20:48:04+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -2528,18 +2549,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/2017/07/18/2017-cherry-glen-acoe-campground-ankeny-iowa/]]></loc>
-		<lastmod><![CDATA[2024-01-27T00:25:33+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhLntTfAxgBI3Dl-writtUxu1HYjrUHemyPIEUKQWl-Rblj5ofgeNHPpG12hCdas34I2Jqky7Xt_z-pDMUBc-6-JFNfQJNH9qir-YQMIKA1xYFb8iCDk78cr-6MWtpBi4mruMjOxTxZmkMBK2hcS9jLhcY9ADudRb27YwNLMKmK0UWKDhKCBR8BKraMv6f/s1600/campground.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[/2017/08/06/2017-lebanon-hills-regional-park-campground-apple-valley-mn/]]></loc>
 		<lastmod><![CDATA[2024-01-27T00:23:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -3257,15 +3266,6 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc><![CDATA[/wp-content/uploads/2021/04/calendar.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/2015/07/01/campground-review-cherry-glen-campground-coe-saylorville-lake-iowa/]]></loc>
-		<lastmod><![CDATA[2021-03-07T03:36:32+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-pzWH57JDBx4/YERJlOa0XeI/AAAAAAABI7I/tdeH0c6r2_wlPpeI8fNUjwu6gPf6NhtjwCPcBGAsYHg/s1280/PHOTO_20150626_115934.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4193,18 +4193,6 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc><![CDATA[https://4.bp.blogspot.com/-LgeesIdi0fw/XVn-DTHhMmI/AAAAAAABAJ4/KEH9VtvnHvYdv_vzWGrJo6AbBraXMWM5ACKgBGAs/s1600/67914930_10156874716038717_1063023209126821888_o.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/2019/08/17/2019-sightseeing-niagara-falls-and-vicinity/]]></loc>
-		<lastmod><![CDATA[2019-08-18T00:03:10+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-tXnEjG9f-YU/XViPqc0A_RI/AAAAAAAA_y0/9RukfIAEC6MFSKKx8ghQpEhM0Hlwr0xtACKgBGAs/s1600/IMG_20190816_164543_DRO.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[/wp-content/uploads/2019/01/fullscreen.png]]></image:loc>
