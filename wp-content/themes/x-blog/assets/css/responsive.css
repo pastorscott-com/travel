@@ -14,6 +14,10 @@ div.kc_tabs > .kc_wrapper > .kc_tabs_nav {
 .baby-container{ 
     width:760px;
 }
+.site-title {
+    font-size: 3rem;
+    line-height: 1.4;
+}
 
 }
 
@@ -39,6 +43,17 @@ div.kc_tabs > .kc_wrapper > .kc_tabs_nav {
 .slicknav_nav li {
     display: block;
     border-bottom: 1px solid #555;
+}
+.content-row{
+    flex-flow: column wrap;
+}
+.site-content.full-width aside section.widget {
+    width: 48%;
+    margin: 0 1% 15px 1%;
+    min-height: inherit;
+    display: flex;
+    gap: 27px;
+    flex-flow: row wrap;
 }
 h1 {
     font-size: 35px;
@@ -69,12 +84,11 @@ html body ul.slicknav_nav li a {
     color: #ffffff;
 }
 .content-area {
-    float: inherit;
     margin: 0 auto;
-    width: auto;
+    width: 100%;
 }
 section.not-found .page-content .widget {
-    width: auto;
+    width: 100%;
     float: inherit;
     margin: auto;
 }
@@ -107,6 +121,13 @@ h2 {
 @media only screen and (max-width: 479px) {
 .header-search-form {
     right: 0;
+}
+.site-content.full-width aside section.widget {
+    width: 100%;
+}
+.site-title {
+    font-size: 2rem;
+    line-height: 1.2;
 }
 
 }
