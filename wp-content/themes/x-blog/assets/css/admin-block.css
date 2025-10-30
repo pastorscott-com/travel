@@ -5,6 +5,10 @@
     font-size: 17px !important;
     font-size: 1rem;
     line-height: 1.6;
+    background: #f1f1f1;
+    padding: 30px;
+    margin-bottom: 1.5em;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
 }
 .editor-styles-wrapper h1,
  .editor-styles-wrapper h2,
