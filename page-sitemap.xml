@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 30, 2025 at 5:22 pm by All in One SEO v4.8.9 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 8, 2025 at 9:44 pm by All in One SEO v4.9.1.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
@@ -9,77 +9,67 @@
 >
 	<url>
 		<loc><![CDATA[/2025-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:50:00+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:42:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2024-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:47:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:29:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2023-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:41:10+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:28:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2022-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:34:46+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:28:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2021-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:28:50+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:28:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2020-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-04-29T21:18:59+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:27:54+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/travel-maps/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:41:18+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/pastorscott/travel/wp-content/uploads/2017/08/20170731_131248-1.jpg]]>			</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/2019-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:27:47+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:27:39+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2018-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:27:25+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:27:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2017-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:27:01+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:27:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2016-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:26:33+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:26:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/2015-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:26:11+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:26:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -89,7 +79,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/our-travel-map-2014/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:25:47+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:26:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -99,12 +89,22 @@
 	</url>
 	<url>
 		<loc><![CDATA[/our-travel-map/]]></loc>
-		<lastmod><![CDATA[2025-03-17T23:25:19+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-12-08T21:25:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
 				<![CDATA[https://3.bp.blogspot.com/-mB60_dSt8uw/Xi0B0NNvxWI/AAAAAAABDpc/TVGz0yCz75oLnUCnw4XpSfKSpspyRTocQCKgBGAsYHg/s1600/2013%2B-%2Bmap.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/travel-maps/]]></loc>
+		<lastmod><![CDATA[2025-03-17T23:41:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/pastorscott/travel/wp-content/uploads/2017/08/20170731_131248-1.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
