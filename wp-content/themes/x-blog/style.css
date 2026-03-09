@@ -5,13 +5,13 @@ Theme URI: http://wpthemespace.com/product/x-blog/
 Author: Noor alam
 Author URI: http://wpthemespace.com/
 Description: X Blog is a smart WordPress blog theme with full RTL (Right-to-Left) language support. Now supports Gutenberg editor and RTL languages for Arabic, Hebrew, Persian, and more. Enjoy blogging in your language with X Blog's RTL-ready design, custom header, featured image, unlimited color options, custom background, 5 color themes, flexible logo position, footer widget, and Font Awesome icons.
-Version: 1.3.31
-Tested up to: 6.8
-Requires PHP: 5.6
+Version: 1.3.32
+Tested up to: 6.9
+Requires PHP: 7.4
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: x-blog
-Tags: Blog, Two-columns, Right-sidebar, custom-header, custom-menu, featured-images, full-width-template, editor-style, microformats, post-formats, sticky-post, flexible-header, rtl-language-support, rtl
+Tags: blog, two-columns, right-sidebar, custom-header, custom-menu, featured-images, full-width-template, editor-style, microformats, post-formats, sticky-post, flexible-header, rtl-language-support
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
@@ -94,12 +94,13 @@ template {
 
 a {
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 a:active,
 a:hover {
   outline: 0;
+  text-decoration: underline !important;
 }
 
 abbr[title] {
@@ -199,6 +200,7 @@ html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button;
+  appearance: button;
   cursor: pointer;
 }
 
@@ -803,7 +805,6 @@ section.home-feature-slider {
   right: 170px;
   bottom: -40px;
   opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -812,7 +813,6 @@ section.home-feature-slider {
 .header-search-form.show {
   visibility: visible;
   opacity: 1;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   z-index: 99999;
 }
 .header-search-form form {
@@ -821,8 +821,6 @@ section.home-feature-slider {
 .header-search-form form input {
   height: 35px;
   padding: 10px 15px;
-}
-input.search-submit .header-search-form form input {
 }
 
 .header-search-form form input.search-submit {
@@ -974,7 +972,6 @@ div#baby-menu ul {
   height: 25px;
   margin-bottom: 12.5px;
   opacity: 0.2;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
   position: absolute;
   right: 0;
   top: 30%;
@@ -999,7 +996,6 @@ div#baby-menu ul {
   -o-transition: 0.9s;
   transition: 0.9s;
   opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   visibility: hidden;
 }
 
@@ -1022,7 +1018,6 @@ div#baby-menu ul {
   top: auto;
   margin-top: 0;
   opacity: 0.1;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
 }
 
 .main-navigation ul li li:hover > a {
@@ -1038,12 +1033,10 @@ div#baby-menu ul {
 .main-navigation ul li:hover ul,
 .main-navigation ul li.hover ul {
   opacity: 1;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   visibility: visible;
 }
 .main-navigation ul li.hover {
   opacity: 0.6;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 }
 
 .main-navigation ul li ul ul {
@@ -1051,12 +1044,10 @@ div#baby-menu ul {
 }
 .main-navigation ul li:hover ul li ul {
   opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   visibility: hidden;
 }
 .main-navigation ul li:hover ul li:hover > ul {
   opacity: 1;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   visibility: visible;
   top: 20px;
 }
@@ -1135,7 +1126,6 @@ html body .slicknav_menu .slicknav_nav a:active {
   background: inherit;
   color: inherit;
   opacity: 0.8;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 ul.slicknav_nav {
   background: #000;
@@ -1503,14 +1493,12 @@ footer.site-footer.footer-display,
 footer.site-footer.footer-display .site-info {
   display: block !important;
   opacity: 1 !important;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   visibility: visible !important;
   position: inherit !important;
 }
 footer.site-footer.footer-display .site-info a {
   display: inline-block !important;
   opacity: 1 !important;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   visibility: visible !important;
   position: inherit !important;
 }
